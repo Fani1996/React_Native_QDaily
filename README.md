@@ -12,3 +12,4 @@ react native mockup of QDaily, just for personal test usage.
 <br/>
 
 ## Some snapshot of interface
+ ![image](https://github.com/Fani1996/React_Native_QDaily/raw/master/imgs/github/main.png)
