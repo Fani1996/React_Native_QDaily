@@ -15,5 +15,7 @@ react native mockup of QDaily, just for personal test usage.
  ![main](https://github.com/Fani1996/React_Native_QDaily/raw/master/imgs/github/main.png)
  
  ![updated_news](https://github.com/Fani1996/React_Native_QDaily/raw/master/imgs/github/news.png)
+
  ![lab](https://github.com/Fani1996/React_Native_QDaily/raw/master/imgs/github/lab.png)
- ![why_read](https://github.com/Fani1996/React_Native_QDaily/raw/master/imgs/github/why_read.png)
+ 
+ ![why_read](https://github.com/Fani1996/React_Native_QDaily/raw/master/imgs/github/why-read.png)
